@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon id="plugin.video.zonkuliah" 
+       name="[COLOR=red]Zon[/COLOR] [COLOR=blue]Kuliah[/COLOR] [COLOR=yellow]Agama[/COLOR]"
+       version="2.1.2"
+       provider-name="Team A">
+
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+	<import addon="script.module.livestreamer" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="zonkuliah.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+        <summary lang="en">Zon Kuliah Agama</summary>
+        <description lang="en">Zon Kuliah Agama made by help from original owner and collaborators.Feedback at Malaysian Video Streamers (Haluan Kiri) FB Group.This add-on is not for sale and it's meant for education purposes only.</description>
+  	<disclaimer lang="en">All content is copyright of their respective owners.</disclaimer>
+  	<platform>all</platform>
+  	<language>en</language>
+  	<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+  	<forum></forum>
+  	<website></website>
+  	<email></email>
+  	<source></source>
+  </extension>
+</addon>
