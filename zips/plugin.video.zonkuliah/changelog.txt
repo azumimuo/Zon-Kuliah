@@ -1,0 +1,20 @@
+[B]Version 2.1.0[/B]
+
+- Internal beta test release (still fixing script error)
+- suitable for kodi version 14.2, 15, 15.2, 16.0
+
+[B]Version 2.0.0[/B]
+
+- Internal beta test release
+- suitable for kodi version 14.2, 15, 15.2, 16.0
+
+[B]Version 1.0.0[/B]
+
+- Internal alpha test release
+- this plugin is for private usage only and should never be purchased
+
+
+
+[B]Disclaimer:[/B]
+
+We do not maintain or stream the content in this addon.
