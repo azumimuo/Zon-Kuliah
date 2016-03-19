@@ -1,4 +1,4 @@
-[B]Version 2.1.0[/B]
+[B]Version 2.1.2[/B]
 
 - Internal beta test release (still fixing script error)
 - suitable for kodi version 14.2, 15, 15.2, 16.0
