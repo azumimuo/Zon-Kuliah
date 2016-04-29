@@ -11,6 +11,9 @@
     <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="Play IMDBid with:" default="Genesis" visible="false"/>
     <setting id="donotshowbychannels" label="Do Not show items under channel name" type="bool" default="false" visible="false"/>
     
+	<setting id="parentalblockedpin" label="Parental Block Pin" type="text"  option="hidden"  default=""/>
+    <setting id="parentalblocked" label="Is Parental Blocked Applied?" type="bool" default="false" enable="false"/>
+	
     <setting id="choose_source" type="enum" values="Choose File|Enter URL" label="Choose Source Type" default="" visible="false"/>
     <setting id="new_file_source" type="file" source="files" label="Choose File" default="" visible="false"/>
     <setting id="new_url_source" type="text" label="Add URL" default="" visible="false"/>
