@@ -1,3 +1,10 @@
+[B]Version 2.1.4[/B]
+
+- Testing file access authorization
+- Testing new function and new file host
+- Release candidate version 3 (RC 3)
+- suitable for kodi version 14.2, 15, 15.2, 16.0, 16.1
+
 [B]Version 2.1.3[/B]
 
 - Testing new function and new file host

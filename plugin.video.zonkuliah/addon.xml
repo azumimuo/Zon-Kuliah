@@ -2,7 +2,7 @@
 
 <addon id="plugin.video.zonkuliah" 
        name="[COLOR=red]Zon[/COLOR] [COLOR=blue]Kuliah[/COLOR] [COLOR=yellow]Agama[/COLOR]"
-       version="2.1.3"
+       version="2.1.4"
        provider-name="Team A">
 
   <requires>
