@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <addon id="plugin.video.zonkuliah" 
-       name="[COLOR=red]Zon[/COLOR] [COLOR=blue]Kuliah[/COLOR] [COLOR=yellow]Agama[/COLOR]"
-       version="2.1.4"
+       name="[COLOR=red]Z[/COLOR]on [COLOR=blue]K[/COLOR]uliah [COLOR=yellow]A[/COLOR]gama"
+       version="2.1.5"
        provider-name="Team A">
 
   <requires>
