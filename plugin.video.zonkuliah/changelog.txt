@@ -1,3 +1,10 @@
+[B]Version 2.1.7[/B]
+
+- Fixing file access authorization
+- Testing new function and new file host
+- Release candidate version 4 (RC 4)
+- suitable for kodi version 14.2, 15, 15.2, 16.0, 16.1
+
 [B]Version 2.1.6[/B]
 
 - Fixing file access authorization

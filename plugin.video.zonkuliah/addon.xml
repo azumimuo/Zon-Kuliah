@@ -2,7 +2,7 @@
 
 <addon id="plugin.video.zonkuliah" 
        name="[COLOR=red]Z[/COLOR]on [COLOR=blue]K[/COLOR]uliah [COLOR=yellow]A[/COLOR]gama"
-       version="2.1.6"
+       version="2.1.7"
        provider-name="Team A">
 
   <requires>
