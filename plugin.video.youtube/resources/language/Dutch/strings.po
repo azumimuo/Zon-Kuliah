@@ -2,544 +2,472 @@
 # Addon Name: YouTube
 # Addon id: plugin.video.youtube
 # Addon version: 5.1.9~beta1
-# Addon Provider: bromix
+# Addon Provider: MaikoHermans
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC-Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
-"POT-Creation-Date: 2015-09-21 11:01+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE\n"
+"POT-Creation-Date: 2016-05-26 16:38+0000\n"
+"PO-Revision-Date: 2016-05-26 16:38+0000\n"
+"Last-Translator: Maiko Hermans <EMAIL@ADDRESS>\n"
+"Language-Team: Dutch\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en\n"
+"Language: du\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 msgctxt "Addon Summary"
 msgid "Plugin for YouTube"
-msgstr ""
+msgstr "Plugin voor Youtube"
 
 msgctxt "Addon Description"
 msgid "YouTube is a one of the biggest video-sharing websites of the world."
-msgstr ""
+msgstr "YouTube is een van de grootste sites ter wereld om video's te delen."
 
 #Kodion Settings
 
 msgctxt "#30000"
 msgid "General"
-msgstr ""
+msgstr "Algemeen"
 
 msgctxt "#30001"
 msgid "Username"
-msgstr ""
+msgstr "Gebruikersnaam"
 
 msgctxt "#30002"
 msgid "Password"
-msgstr ""
+msgstr "Wachtwoord"
 
-#empty strings from id 30003 to 30006
-
-msgctxt "#30007"
-msgid "Use MPEG-DASH"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Configure MPEG-DASH InputStream Client"
-msgstr ""
+#empty strings from id 30003 to 30008
 
 msgctxt "#30009"
 msgid "Always ask for the video quality"
-msgstr ""
+msgstr "Vraag altijd naar video kwaliteit"
 
 msgctxt "#30010"
 msgid "Video Quality"
-msgstr ""
+msgstr "Video Kwaliteit"
 
 msgctxt "#30011"
 msgid "480p"
-msgstr ""
+msgstr "480p"
 
 msgctxt "#30012"
 msgid "720p (HD)"
-msgstr ""
+msgstr "720p (HD)"
 
 msgctxt "#30013"
 msgid "1080p (HD)"
-msgstr ""
+msgstr "1080p (HD)"
 
 msgctxt "#30014"
 msgid "2160p (4k)"
-msgstr ""
+msgstr "2160p (4k)"
 
 msgctxt "#30015"
 msgid "4320p (8k)"
-msgstr ""
+msgstr "4320p (8k)"
 
 msgctxt "#30016"
 msgid "240p"
-msgstr ""
+msgstr "240p"
 
 msgctxt "#30017"
 msgid "360p"
-msgstr ""
+msgstr "360p"
 
 #empty strings from id 30018 to 30019
 
 msgctxt "#30020"
 msgid "Allow 3D"
-msgstr ""
+msgstr "Sta 3D Toe"
 
 msgctxt "#30021"
 msgid "Show Fanart"
-msgstr ""
+msgstr "Toon Kunst door Fans"
 
 msgctxt "#30022"
 msgid "Items per page"
-msgstr ""
+msgstr "Items per pagina"
 
 msgctxt "#30023"
 msgid "Search History Size"
-msgstr ""
+msgstr "Zoek historie grote"
 
 msgctxt "#30024"
 msgid "Cache Size (MB)"
-msgstr ""
+msgstr "Cache Grote (MB)"
 
 msgctxt "#30025"
 msgid "Enable setup-wizard"
-msgstr ""
+msgstr "Schakel setup-wizard in"
 
 msgctxt "#30026"
 msgid "Override View"
-msgstr ""
+msgstr "Overschrijf venster"
 
 msgctxt "#30027"
 msgid "View: Default"
-msgstr ""
+msgstr "Venster: standaard"
 
 msgctxt "#30028"
 msgid "View: Episodes"
-msgstr ""
+msgstr "Venster: Afleveringen"
 
 msgctxt "#30029"
 msgid "View: Movies"
-msgstr ""
+msgstr "Venster: Films"
 
 msgctxt "#30030"
 msgid "Execute setup-wizard?"
-msgstr ""
+msgstr "Setup-wizard uitvoeren?"
 
 msgctxt "#30031"
 msgid "Advanced"
-msgstr ""
+msgstr "Geavanceerd"
 
 msgctxt "#30032"
 msgid "View: TV Shows"
-msgstr ""
+msgstr "Venster: TV Series"
 
 msgctxt "#30033"
 msgid "View: Songs"
-msgstr ""
+msgstr "Venster: Nummers"
 
 msgctxt "#30034"
 msgid "View: Artists"
-msgstr ""
+msgstr "Venster: Artiesten"
 
 msgctxt "#30035"
 msgid "View: Albums"
-msgstr ""
+msgstr "Venster: Albums"
 
 msgctxt "#30036"
 msgid "Support alternative player"
-msgstr ""
-
-msgctxt "#30037"
-msgid "Custom Watch Later Playlist ID"
-msgstr ""
+msgstr "Support alternative afspeler"
 
 #Kodion Common
-#empty strings from id 30038 to 30099
+#empty strings from id 30037 to 30099
 
 msgctxt "#30100"
 msgid "Favorites"
-msgstr ""
+msgstr "Favorieten"
 
 msgctxt "#30101"
 msgid "Add to addon favs"
-msgstr ""
+msgstr "Voeg to om favorieten toe te voegen"
 
 msgctxt "#30102"
 msgid "Search"
-msgstr ""
+msgstr "Zoeken"
 
 msgctxt "#30103"
 msgid "Library"
-msgstr ""
+msgstr "Bibliotheek"
 
 msgctxt "#30104"
 msgid "Highlights"
-msgstr ""
+msgstr "Hoogtepunten"
 
 msgctxt "#30105"
 msgid "Archive"
-msgstr ""
+msgstr "Archief"
 
 msgctxt "#30106"
 msgid "Next Page (%d)"
-msgstr ""
+msgstr "Volgende Pagina (%)"
 
 msgctxt "#30107"
 msgid "Watch Later"
-msgstr ""
+msgstr "Kijk Later"
 
 msgctxt "#30108"
 msgid "Remove"
-msgstr ""
+msgstr "Verwijder"
 
 msgctxt "#30109"
 msgid "Latest Videos"
-msgstr ""
+msgstr "Laatste Video's"
 
 msgctxt "#30110"
 msgid "New Search"
-msgstr ""
+msgstr "Nieuwe Zoekopdracht"
 
 msgctxt "#30111"
 msgid "Sign In"
-msgstr ""
+msgstr "Inloggen"
 
 msgctxt "#30112"
 msgid "Sign Out"
-msgstr ""
+msgstr "Uitloggen"
 
 msgctxt "#30113"
 msgid "Rename"
-msgstr ""
+msgstr "Hernoem"
 
 msgctxt "#30114"
 msgid "Confirm delete"
-msgstr ""
+msgstr "Bevestig delete"
 
 msgctxt "#30115"
 msgid "Confirm remove"
-msgstr ""
+msgstr "Bevestig verwijderen"
 
 msgctxt "#30116"
 msgid "Delete \"%s\"?"
-msgstr ""
+msgstr "Delete \"%s\"?"
 
 msgctxt "#30117"
 msgid "Remove \"%s\"?"
-msgstr ""
+msgstr "Verwijder \"%s\"?"
 
 msgctxt "#30118"
 msgid "Delete"
-msgstr ""
+msgstr "Verwijder"
 
 msgctxt "#30119"
 msgid "Please wait..."
-msgstr ""
+msgstr "Geduld AUB..."
 
 msgctxt "#30120"
 msgid "Clear"
-msgstr ""
+msgstr "Schoon op"
 
 #YouTube
 #empty strings from id 30121 to 30199
 
 msgctxt "#30200"
 msgid "API Key"
-msgstr ""
+msgstr "API Sleutel"
 
 msgctxt "#30201"
 msgid "API Key"
-msgstr ""
+msgstr "API Sleutel"
 
 msgctxt "#30202"
 msgid "API Id"
-msgstr ""
+msgstr "API Id"
 
 msgctxt "#30203"
 msgid "API Secret"
-msgstr ""
+msgstr "API Secret"
 
 msgctxt "#30204"
 msgid "Enable Personal API Keys"
-msgstr ""
+msgstr "Schakel personelijke API sleutels in"
 
 msgctxt "#30205"
 msgid "Autologin on Error enable"
-msgstr ""
+msgstr "Automatisch inloggen bij error inschakelen"
 
 #YouTube
 #empty strings from id 30206 to 30499
 
 msgctxt "#30500"
 msgid "Channels"
-msgstr ""
+msgstr "Kanalen"
 
 msgctxt "#30501"
 msgid "Playlists"
-msgstr ""
+msgstr "Aspeellijsten"
 
 msgctxt "#30502"
 msgid "Go to %s"
-msgstr ""
+msgstr "Ga naar %s"
 
 msgctxt "#30503"
 msgid "Show channel fanart"
-msgstr ""
+msgstr "Toon kanaal kunst door fans"
 
 msgctxt "#30504"
 msgid "Subscriptions"
-msgstr ""
+msgstr "Abbonee's"
 
 msgctxt "#30505"
-msgid "Unsubscribe"
+msgid "Afmelden"
 msgstr ""
 
 msgctxt "#30506"
 msgid "Subscribe"
-msgstr ""
+msgstr "Abboneer"
 
 msgctxt "#30507"
 msgid "My Channel"
-msgstr ""
+msgstr "Mijn Kanaal"
 
 msgctxt "#30508"
 msgid "Liked Videos"
-msgstr ""
+msgstr "Gelikete Video's"
 
 msgctxt "#30509"
 msgid "History"
-msgstr ""
+msgstr "Geschiedenis"
 
 msgctxt "#30510"
 msgid "My Subscriptions"
-msgstr ""
+msgstr "Mijn Abbonee's"
 
 msgctxt "#30511"
 msgid "Queue video"
-msgstr ""
+msgstr "Video wachtrij"
 
 msgctxt "#30512"
 msgid "Browse Channels"
-msgstr ""
+msgstr "Blader door Kanalen"
 
 msgctxt "#30513"
 msgid "Popular right now"
-msgstr ""
+msgstr "Populair op dit moment"
 
 msgctxt "#30514"
 msgid "Related Videos"
-msgstr ""
+msgstr "Gerelateerde Video's"
 
 msgctxt "#30515"
 msgid "Auto-Remove from 'Watch Later'"
-msgstr ""
+msgstr "Verwijder automatisch van 'Later Bekijken'"
 
 msgctxt "#30516"
 msgid "Folders"
-msgstr ""
+msgstr "Mappen"
 
 msgctxt "#30517"
 msgid "Subscribe to %s"
-msgstr ""
+msgstr "Abboneer op %s"
 
 msgctxt "#30518"
 msgid "Go to '%s'"
-msgstr ""
+msgstr "Ga naar '%s'"
 
 msgctxt "#30519"
 msgid "and enter the following code:"
-msgstr ""
+msgstr "en vul de volgende code in:"
 
 msgctxt "#30520"
 msgid "Add to..."
-msgstr ""
+msgstr "Voeg toe aan..."
 
 msgctxt "#30521"
 msgid "Select playlist"
-msgstr ""
+msgstr "Selecteer afspeellijst"
 
 msgctxt "#30522"
 msgid "New playlist..."
-msgstr ""
+msgstr "Nieuwe afspeellijst..."
 
 msgctxt "#30523"
 msgid "Language"
-msgstr ""
+msgstr "Taal"
 
 msgctxt "#30524"
 msgid "Select language"
-msgstr ""
+msgstr "Selecteer taal"
 
 msgctxt "#30525"
 msgid "Select region"
-msgstr ""
+msgstr "Selecteer regio"
 
 msgctxt "#30526"
 msgid "Adjust"
-msgstr ""
+msgstr "Aanpassen"
 
 msgctxt "#30527"
 msgid "Language and region?"
-msgstr ""
+msgstr "Taal en regio?"
 
 msgctxt "#30528"
 msgid "Rate..."
-msgstr ""
+msgstr "Beoordeling..."
 
 msgctxt "#30529"
 msgid "I like this"
-msgstr ""
+msgstr "Ik vind dit leuk"
 
 msgctxt "#30530"
 msgid "I dislike this"
-msgstr ""
+msgstr "Ik vind dit niet leuk"
 
 msgctxt "#30531"
 msgid "Play all"
-msgstr ""
+msgstr "Alles afspelen"
 
 msgctxt "#30532"
 msgid "Default"
-msgstr ""
+msgstr "Standaard"
 
 msgctxt "#30533"
 msgid "Reverse"
-msgstr ""
+msgstr "Omgekeerd"
 
 msgctxt "#30534"
 msgid "Shuffle"
-msgstr ""
+msgstr "Schuifelen"
 
 msgctxt "#30535"
 msgid "Select the order of the playlist"
-msgstr ""
+msgstr "Selecteer volgerde van de afspeellijst"
 
 msgctxt "#30536"
 msgid "Updating Playlist..."
-msgstr ""
+msgstr "Afspeellijst updaten..."
 
 msgctxt "#30537"
 msgid "Play from here"
-msgstr ""
+msgstr "Vanaf hier afspelen"
 
 msgctxt "#30538"
 msgid "Disliked Videos"
-msgstr ""
+msgstr "Video's die ik niet leuk vind"
 
 msgctxt "#30539"
 msgid "Live"
-msgstr ""
+msgstr "Live"
 
 msgctxt "#30540"
 msgid "Play with..."
-msgstr ""
+msgstr "Afspelen met..."
 
 msgctxt "#30541"
 msgid "Show channel name in description"
-msgstr ""
+msgstr "Toon kanaal naam in beschrijving"
 
 msgctxt "#30542"
 msgid "rtmpe streams are not supported"
-msgstr ""
+msgstr "rtmpe streams zijn niet toegestaan"
 
 msgctxt "#30543"
 msgid "Refresh"
-msgstr ""
+msgstr "Herladen"
 
 msgctxt "#30544"
 msgid "More Links from the description"
-msgstr ""
+msgstr "Meer links van de beschrijving"
 
 msgctxt "#30545"
 msgid "No further links found."
-msgstr ""
+msgstr "Geen andere links gevonden"
 
 msgctxt "#30546"
 msgid "Please log in twice!"
-msgstr ""
+msgstr "Log AUB twee keer in!"
 
 msgctxt "#30547"
 msgid "You must enable two applications so that YouTube is functioning properly."
-msgstr ""
+msgstr "Je moet twee applicaties inschakelen zodat YouTube volledig kan functioneren."
 
 msgctxt "#30548"
 msgid "More..."
-msgstr ""
+msgstr "Meer..."
 
 msgctxt "#30549"
 msgid "No videos streams found"
-msgstr ""
+msgstr "Geen video streams gevonden"
 
 msgctxt "#30550"
 msgid "Region"
-msgstr ""
+msgstr "Regio"
 
 msgctxt "#30551"
 msgid "Recommendations"
-msgstr ""
-
-msgctxt "#30552"
-msgid "Maintenance"
-msgstr ""
-
-msgctxt "#30553"
-msgid "Delete function cache database"
-msgstr ""
-
-msgctxt "#30554"
-msgid "Delete search history database"
-msgstr ""
-
-msgctxt "#30555"
-msgid "Clear function cache"
-msgstr ""
-
-msgctxt "#30556"
-msgid "Clear search history"
-msgstr ""
-
-msgctxt "#30557"
-msgid "function cache"
-msgstr ""
-
-msgctxt "#30558"
-msgid "search history"
-msgstr ""
-
-msgctxt "#30559"
-msgid "Delete settings.xml"
-msgstr ""
-
-msgctxt "#30560"
-msgid "Subtitle language(s) to download"
-msgstr ""
-
-msgctxt "#30561"
-msgid "None"
-msgstr ""
-
-msgctxt "#30562"
-msgid "All"
-msgstr ""
-
-msgctxt "#30563"
-msgid "Setting"
-msgstr ""
-
-msgctxt "#30564"
-msgid "Setting, English"
-msgstr ""
-
-msgctxt "#30565"
-msgid "English"
-msgstr ""
-
-msgctxt "#30566"
-msgid "Prompt"
-msgstr ""
+msgstr "Aanbevolen"
