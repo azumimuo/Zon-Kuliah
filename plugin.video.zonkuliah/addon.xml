@@ -2,13 +2,13 @@
 
 <addon id="plugin.video.zonkuliah" 
        name="[COLOR=red]Z[/COLOR]on [COLOR=blue]K[/COLOR]uliah [COLOR=yellow]A[/COLOR]gama"
-       version="2.1.7"
+       version="2.1.8"
        provider-name="Team A">
 
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.simple.downloader" />
     <import addon="script.module.beautifulsoup4" />
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
